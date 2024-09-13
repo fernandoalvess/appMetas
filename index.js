@@ -1,2 +1,8 @@
-// hello world!
-console.log("hello world!");
+function start(){
+    while (true) {
+        console.log("Começou")
+        return
+    }
+}
+
+start()
